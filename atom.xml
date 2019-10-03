@@ -6,7 +6,7 @@
   <link href="/Skr-king.github.io/atom.xml" rel="self"/>
   
   <link href="https://skr-king.github.io/"/>
-  <updated>2019-10-02T06:41:56.292Z</updated>
+  <updated>2019-10-03T04:52:13.032Z</updated>
   <id>https://skr-king.github.io/</id>
   
   <author>
@@ -17,24 +17,24 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://skr-king.github.io/2019/10/02/hello-world/"/>
-    <id>https://skr-king.github.io/2019/10/02/hello-world/</id>
-    <published>2019-10-02T06:41:56.292Z</published>
-    <updated>2019-10-02T06:41:56.292Z</updated>
+    <title>git远程操作仓库</title>
+    <link href="https://skr-king.github.io/2019/10/02/untitled/"/>
+    <id>https://skr-king.github.io/2019/10/02/untitled/</id>
+    <published>2019-10-02T14:16:01.000Z</published>
+    <updated>2019-10-03T04:52:13.032Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
-        
-      
+      hexo-sakura主题使用教程
     
     </summary>
     
+      <category term="技术" scheme="https://skr-king.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="web" scheme="https://skr-king.github.io/tags/web/"/>
+    
+      <category term="悦读" scheme="https://skr-king.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
@@ -43,18 +43,20 @@
     <link href="https://skr-king.github.io/2019/09/24/hanoi/"/>
     <id>https://skr-king.github.io/2019/09/24/hanoi/</id>
     <published>2019-09-23T23:16:40.000Z</published>
-    <updated>2019-09-23T23:31:46.481Z</updated>
+    <updated>2019-10-03T05:13:08.479Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;想来一趟说走就走的旅行，没有手机，没有联系方式，独身一人，目标——你在的地方。
+      想来一趟说走就走的旅行，没有手机，没有联系方式，独身一人，目标——你在的地方。
     
     </summary>
     
-      <category term="Game" scheme="https://skr-king.github.io/categories/Game/"/>
+      <category term="技术" scheme="https://skr-king.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="Game" scheme="https://skr-king.github.io/tags/Game/"/>
+      <category term="web" scheme="https://skr-king.github.io/tags/web/"/>
+    
+      <category term="悦读" scheme="https://skr-king.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
@@ -63,18 +65,20 @@
     <link href="https://skr-king.github.io/2019/09/22/learn-5/"/>
     <id>https://skr-king.github.io/2019/09/22/learn-5/</id>
     <published>2019-09-22T02:54:37.000Z</published>
-    <updated>2019-09-23T11:33:58.551Z</updated>
+    <updated>2019-10-03T05:26:12.137Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;遇见你我花光了所有的运气，以至于现在厄运连连。
+      遇见你我花光了所有的运气，以至于现在厄运连连。
     
     </summary>
     
-      <category term="Algorithm" scheme="https://skr-king.github.io/categories/Algorithm/"/>
+      <category term="技术" scheme="https://skr-king.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="Algorithm" scheme="https://skr-king.github.io/tags/Algorithm/"/>
+      <category term="web" scheme="https://skr-king.github.io/tags/web/"/>
+    
+      <category term="悦读" scheme="https://skr-king.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
@@ -83,18 +87,20 @@
     <link href="https://skr-king.github.io/2019/09/20/datastruct-1/"/>
     <id>https://skr-king.github.io/2019/09/20/datastruct-1/</id>
     <published>2019-09-20T12:29:30.000Z</published>
-    <updated>2019-09-20T12:56:18.348Z</updated>
+    <updated>2019-10-03T05:00:20.902Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;你是我听过最美的童话。
+      你是我听过最美的童话。
     
     </summary>
     
-      <category term="Data-Structure" scheme="https://skr-king.github.io/categories/Data-Structure/"/>
+      <category term="技术" scheme="https://skr-king.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="Linked list" scheme="https://skr-king.github.io/tags/Linked-list/"/>
+      <category term="web" scheme="https://skr-king.github.io/tags/web/"/>
+    
+      <category term="悦读" scheme="https://skr-king.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
@@ -103,18 +109,20 @@
     <link href="https://skr-king.github.io/2019/09/15/learn-4/"/>
     <id>https://skr-king.github.io/2019/09/15/learn-4/</id>
     <published>2019-09-15T10:09:58.000Z</published>
-    <updated>2019-09-22T02:56:09.613Z</updated>
+    <updated>2019-10-03T05:25:35.467Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;想和你一起聊我的秘密，可发现你就是我的秘密。
+      想和你一起聊我的秘密，可发现你就是我的秘密。
     
     </summary>
     
-      <category term="Algorithm" scheme="https://skr-king.github.io/categories/Algorithm/"/>
+      <category term="技术" scheme="https://skr-king.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="Algorithm" scheme="https://skr-king.github.io/tags/Algorithm/"/>
+      <category term="web" scheme="https://skr-king.github.io/tags/web/"/>
+    
+      <category term="悦读" scheme="https://skr-king.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
@@ -123,18 +131,20 @@
     <link href="https://skr-king.github.io/2019/09/14/Learn-3/"/>
     <id>https://skr-king.github.io/2019/09/14/Learn-3/</id>
     <published>2019-09-14T02:34:55.000Z</published>
-    <updated>2019-09-22T02:55:29.843Z</updated>
+    <updated>2019-10-03T05:24:48.138Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt; 不疯不魔，难以成佛。
+      不疯不魔，难以成佛。
     
     </summary>
     
-      <category term="Algorithm" scheme="https://skr-king.github.io/categories/Algorithm/"/>
+      <category term="技术" scheme="https://skr-king.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="Algorithm" scheme="https://skr-king.github.io/tags/Algorithm/"/>
+      <category term="web" scheme="https://skr-king.github.io/tags/web/"/>
+    
+      <category term="悦读" scheme="https://skr-king.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
@@ -143,18 +153,20 @@
     <link href="https://skr-king.github.io/2019/09/11/learn-2/"/>
     <id>https://skr-king.github.io/2019/09/11/learn-2/</id>
     <published>2019-09-11T05:56:29.000Z</published>
-    <updated>2019-09-22T02:55:58.861Z</updated>
+    <updated>2019-10-03T05:24:57.747Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;围在城里的人想逃出来，城外的人想冲进去。–《围城》
+      围在城里的人想逃出来，城外的人想冲进去。--《围城》
     
     </summary>
     
-      <category term="Algorithm" scheme="https://skr-king.github.io/categories/Algorithm/"/>
+      <category term="技术" scheme="https://skr-king.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="Algorithm" scheme="https://skr-king.github.io/tags/Algorithm/"/>
+      <category term="web" scheme="https://skr-king.github.io/tags/web/"/>
+    
+      <category term="悦读" scheme="https://skr-king.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
@@ -163,16 +175,20 @@
     <link href="https://skr-king.github.io/2019/09/09/learn-1/"/>
     <id>https://skr-king.github.io/2019/09/09/learn-1/</id>
     <published>2019-09-09T02:23:56.000Z</published>
-    <updated>2019-09-22T02:55:48.029Z</updated>
+    <updated>2019-10-03T05:23:29.400Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;乱花渐欲迷人眼，浅草才能建马蹄。最爱湖东行不足，绿杨阴里白沙堤。自己领会去吧！！！
+      乱花渐欲迷人眼，浅草才能建马蹄。最爱湖东行不足，绿杨阴里白沙堤。自己领会去吧！！！
     
     </summary>
     
+      <category term="技术" scheme="https://skr-king.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
-      <category term="Algorithm" scheme="https://skr-king.github.io/tags/Algorithm/"/>
+    
+      <category term="web" scheme="https://skr-king.github.io/tags/web/"/>
+    
+      <category term="悦读" scheme="https://skr-king.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
@@ -181,18 +197,20 @@
     <link href="https://skr-king.github.io/2019/09/06/matplotlib/"/>
     <id>https://skr-king.github.io/2019/09/06/matplotlib/</id>
     <published>2019-09-06T13:53:59.000Z</published>
-    <updated>2019-09-06T14:23:58.926Z</updated>
+    <updated>2019-10-03T05:29:34.122Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;我的冷漠里藏着一半的害羞，一半的自卑。
+      我的冷漠里藏着一半的害羞，一半的自卑。
     
     </summary>
     
-      <category term="python" scheme="https://skr-king.github.io/categories/python/"/>
+      <category term="技术" scheme="https://skr-king.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="matplotlib" scheme="https://skr-king.github.io/tags/matplotlib/"/>
+      <category term="web" scheme="https://skr-king.github.io/tags/web/"/>
+    
+      <category term="悦读" scheme="https://skr-king.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
@@ -201,18 +219,20 @@
     <link href="https://skr-king.github.io/2019/08/29/Essay/"/>
     <id>https://skr-king.github.io/2019/08/29/Essay/</id>
     <published>2019-08-29T13:54:17.000Z</published>
-    <updated>2019-09-06T14:31:56.098Z</updated>
+    <updated>2019-10-03T05:06:34.807Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;不妨先做出点成绩，然后再去强调你的感受，否则，生命中只有唧唧歪歪，怎么看都是矫情。
+      不妨先做出点成绩，然后再去强调你的感受，否则，生命中只有唧唧歪歪，怎么看都是矫情。
     
     </summary>
     
-      <category term="Life essay" scheme="https://skr-king.github.io/categories/Life-essay/"/>
+      <category term="技术" scheme="https://skr-king.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="Life essay" scheme="https://skr-king.github.io/tags/Life-essay/"/>
+      <category term="web" scheme="https://skr-king.github.io/tags/web/"/>
+    
+      <category term="悦读" scheme="https://skr-king.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
@@ -221,18 +241,20 @@
     <link href="https://skr-king.github.io/2019/08/28/Looking-at-the-stars/"/>
     <id>https://skr-king.github.io/2019/08/28/Looking-at-the-stars/</id>
     <published>2019-08-28T09:41:07.000Z</published>
-    <updated>2019-08-29T03:50:51.552Z</updated>
+    <updated>2019-10-03T05:27:43.767Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;Live a good life meet slowly.
+      Live a good life meet slowly.
     
     </summary>
     
-      <category term="Life essay" scheme="https://skr-king.github.io/categories/Life-essay/"/>
+      <category term="技术" scheme="https://skr-king.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="Life essay" scheme="https://skr-king.github.io/tags/Life-essay/"/>
+      <category term="web" scheme="https://skr-king.github.io/tags/web/"/>
+    
+      <category term="悦读" scheme="https://skr-king.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
@@ -241,18 +263,20 @@
     <link href="https://skr-king.github.io/2019/08/21/Keras-note-3/"/>
     <id>https://skr-king.github.io/2019/08/21/Keras-note-3/</id>
     <published>2019-08-21T02:41:36.000Z</published>
-    <updated>2019-08-29T03:49:15.359Z</updated>
+    <updated>2019-10-03T05:20:08.585Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt; May you be faithful to yourself, live earnestly and laugh freel.
+      This is a nice day!!!
     
     </summary>
     
-      <category term="Keras-note" scheme="https://skr-king.github.io/categories/Keras-note/"/>
+      <category term="技术" scheme="https://skr-king.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="Keras-note" scheme="https://skr-king.github.io/tags/Keras-note/"/>
+      <category term="web" scheme="https://skr-king.github.io/tags/web/"/>
+    
+      <category term="悦读" scheme="https://skr-king.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
@@ -261,18 +285,20 @@
     <link href="https://skr-king.github.io/2019/08/20/Stanford-Machine-Learning-camp/"/>
     <id>https://skr-king.github.io/2019/08/20/Stanford-Machine-Learning-camp/</id>
     <published>2019-08-20T03:33:29.000Z</published>
-    <updated>2019-08-29T03:53:54.706Z</updated>
+    <updated>2019-10-03T05:35:25.527Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt; 曾经沧海难为水，却见巫山不是云。
+      曾经沧海难为水，却见巫山不是云。
     
     </summary>
     
-      <category term="Machine-learn" scheme="https://skr-king.github.io/categories/Machine-learn/"/>
+      <category term="技术" scheme="https://skr-king.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="Machine-learn" scheme="https://skr-king.github.io/tags/Machine-learn/"/>
+      <category term="web" scheme="https://skr-king.github.io/tags/web/"/>
+    
+      <category term="悦读" scheme="https://skr-king.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
@@ -281,18 +307,20 @@
     <link href="https://skr-king.github.io/2019/08/20/Keras-note-2/"/>
     <id>https://skr-king.github.io/2019/08/20/Keras-note-2/</id>
     <published>2019-08-19T23:09:24.000Z</published>
-    <updated>2019-08-29T03:48:56.017Z</updated>
+    <updated>2019-10-03T05:19:39.283Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt; 要么出众，要么出局，乾坤未定，你我都是黑马。
+      要么出众，要么出局，乾坤未定，你我都是黑马。
     
     </summary>
     
-      <category term="Keras-note" scheme="https://skr-king.github.io/categories/Keras-note/"/>
+      <category term="技术" scheme="https://skr-king.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="Keras-note" scheme="https://skr-king.github.io/tags/Keras-note/"/>
+      <category term="web" scheme="https://skr-king.github.io/tags/web/"/>
+    
+      <category term="悦读" scheme="https://skr-king.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
@@ -301,18 +329,20 @@
     <link href="https://skr-king.github.io/2019/08/19/Keras-note-1/"/>
     <id>https://skr-king.github.io/2019/08/19/Keras-note-1/</id>
     <published>2019-08-19T13:46:23.000Z</published>
-    <updated>2019-08-29T03:48:32.879Z</updated>
+    <updated>2019-10-03T05:18:47.037Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt; 越努力，越幸运。
+      This is a nice day!!!
     
     </summary>
     
-      <category term="Keras-note" scheme="https://skr-king.github.io/categories/Keras-note/"/>
+      <category term="技术" scheme="https://skr-king.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="Keras-note" scheme="https://skr-king.github.io/tags/Keras-note/"/>
+      <category term="web" scheme="https://skr-king.github.io/tags/web/"/>
+    
+      <category term="悦读" scheme="https://skr-king.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
@@ -321,38 +351,42 @@
     <link href="https://skr-king.github.io/2019/08/17/Ubutu%E7%B3%BB%E7%BB%9F%E6%96%87%E4%BB%B6%E7%BB%93%E6%9E%84/"/>
     <id>https://skr-king.github.io/2019/08/17/Ubutu系统文件结构/</id>
     <published>2019-08-17T03:47:20.000Z</published>
-    <updated>2019-08-29T03:54:13.033Z</updated>
+    <updated>2019-10-03T05:35:50.760Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt; 可能我不是最优秀的，但我在努力做你眼中最棒的。
+      乱花渐欲迷人眼，浅草才能建马蹄。最爱湖东行不足，绿杨阴里白沙堤。自己领会去吧！！！
     
     </summary>
     
-      <category term="Ubutu" scheme="https://skr-king.github.io/categories/Ubutu/"/>
+      <category term="技术" scheme="https://skr-king.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="Ubutu" scheme="https://skr-king.github.io/tags/Ubutu/"/>
+      <category term="web" scheme="https://skr-king.github.io/tags/web/"/>
+    
+      <category term="悦读" scheme="https://skr-king.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
   <entry>
-    <title>Python command</title>
+    <title>Pip command</title>
     <link href="https://skr-king.github.io/2019/08/11/Pip-command/"/>
     <id>https://skr-king.github.io/2019/08/11/Pip-command/</id>
     <published>2019-08-11T10:58:17.000Z</published>
-    <updated>2019-08-29T03:52:36.117Z</updated>
+    <updated>2019-10-03T05:32:20.887Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt; 不是 ,有钱才善良，而是善良才富足。&lt;/p&gt;
+      乱花渐欲迷人眼，浅草才能建马蹄。最爱湖东行不足，绿杨阴里白沙堤。自己领会去吧！！！
     
     </summary>
     
-      <category term="python" scheme="https://skr-king.github.io/categories/python/"/>
+      <category term="技术" scheme="https://skr-king.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="python command" scheme="https://skr-king.github.io/tags/python-command/"/>
+      <category term="web" scheme="https://skr-king.github.io/tags/web/"/>
+    
+      <category term="悦读" scheme="https://skr-king.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
@@ -361,18 +395,20 @@
     <link href="https://skr-king.github.io/2019/08/11/Network-App-Recommend/"/>
     <id>https://skr-king.github.io/2019/08/11/Network-App-Recommend/</id>
     <published>2019-08-11T09:39:24.000Z</published>
-    <updated>2019-08-29T03:52:17.276Z</updated>
+    <updated>2019-10-03T05:31:40.018Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt; 你知道吗，有些人，会以各种你情愿或不情愿的方式，留在你的记忆里，比如我。&lt;/p&gt;
+      你知道吗，有些人，会以各种你情愿或不情愿的方式，留在你的记忆里，比如我。
     
     </summary>
     
-      <category term="sharing" scheme="https://skr-king.github.io/categories/sharing/"/>
+      <category term="技术" scheme="https://skr-king.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="recommend" scheme="https://skr-king.github.io/tags/recommend/"/>
+      <category term="web" scheme="https://skr-king.github.io/tags/web/"/>
+    
+      <category term="悦读" scheme="https://skr-king.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
@@ -381,18 +417,20 @@
     <link href="https://skr-king.github.io/2019/08/04/Appreciation-of-Novels-2/"/>
     <id>https://skr-king.github.io/2019/08/04/Appreciation-of-Novels-2/</id>
     <published>2019-08-04T02:18:50.000Z</published>
-    <updated>2019-08-29T03:27:48.029Z</updated>
+    <updated>2019-10-03T04:56:06.658Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt; “不要忘记你曾经是怎样的小孩”，“不要忘记你曾希望变成怎样的大人”。&lt;/p&gt;
+      “不要忘记你曾经是怎样的小孩”，“不要忘记你曾希望变成怎样的大人”。
     
     </summary>
     
-      <category term="literature" scheme="https://skr-king.github.io/categories/literature/"/>
+      <category term="技术" scheme="https://skr-king.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="literature" scheme="https://skr-king.github.io/tags/literature/"/>
+      <category term="web" scheme="https://skr-king.github.io/tags/web/"/>
+    
+      <category term="悦读" scheme="https://skr-king.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
@@ -401,18 +439,20 @@
     <link href="https://skr-king.github.io/2019/08/03/NCF-Data-Processing/"/>
     <id>https://skr-king.github.io/2019/08/03/NCF-Data-Processing/</id>
     <published>2019-08-03T14:02:07.000Z</published>
-    <updated>2019-08-29T03:51:56.107Z</updated>
+    <updated>2019-10-03T05:30:49.705Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;  左眼永远见不到右眼，只能陪她一起哭泣。
+      左眼永远见不到右眼，只能陪她一起哭泣。
     
     </summary>
     
-      <category term="AI" scheme="https://skr-king.github.io/categories/AI/"/>
+      <category term="技术" scheme="https://skr-king.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="AI" scheme="https://skr-king.github.io/tags/AI/"/>
+      <category term="web" scheme="https://skr-king.github.io/tags/web/"/>
+    
+      <category term="悦读" scheme="https://skr-king.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
