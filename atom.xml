@@ -6,7 +6,7 @@
   <link href="/Skr-king.github.io/atom.xml" rel="self"/>
   
   <link href="https://skr-king.github.io/"/>
-  <updated>2019-10-03T04:52:13.032Z</updated>
+  <updated>2019-10-03T07:01:51.658Z</updated>
   <id>https://skr-king.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://skr-king.github.io/2019/10/02/untitled/"/>
     <id>https://skr-king.github.io/2019/10/02/untitled/</id>
     <published>2019-10-02T14:16:01.000Z</published>
-    <updated>2019-10-03T04:52:13.032Z</updated>
+    <updated>2019-10-03T07:01:51.658Z</updated>
     
     <summary type="html">
     
@@ -29,12 +29,10 @@
     
     </summary>
     
-      <category term="技术" scheme="https://skr-king.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="乐趣" scheme="https://skr-king.github.io/categories/%E4%B9%90%E8%B6%A3/"/>
     
     
-      <category term="web" scheme="https://skr-king.github.io/tags/web/"/>
-    
-      <category term="悦读" scheme="https://skr-king.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
+      <category term="git" scheme="https://skr-king.github.io/tags/git/"/>
     
   </entry>
   
@@ -43,7 +41,7 @@
     <link href="https://skr-king.github.io/2019/09/24/hanoi/"/>
     <id>https://skr-king.github.io/2019/09/24/hanoi/</id>
     <published>2019-09-23T23:16:40.000Z</published>
-    <updated>2019-10-03T05:13:08.479Z</updated>
+    <updated>2019-10-03T06:50:52.100Z</updated>
     
     <summary type="html">
     
@@ -51,12 +49,8 @@
     
     </summary>
     
-      <category term="技术" scheme="https://skr-king.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="乐趣" scheme="https://skr-king.github.io/categories/%E4%B9%90%E8%B6%A3/"/>
     
-    
-      <category term="web" scheme="https://skr-king.github.io/tags/web/"/>
-    
-      <category term="悦读" scheme="https://skr-king.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
@@ -65,7 +59,7 @@
     <link href="https://skr-king.github.io/2019/09/22/learn-5/"/>
     <id>https://skr-king.github.io/2019/09/22/learn-5/</id>
     <published>2019-09-22T02:54:37.000Z</published>
-    <updated>2019-10-03T05:26:12.137Z</updated>
+    <updated>2019-10-03T06:56:16.720Z</updated>
     
     <summary type="html">
     
@@ -73,12 +67,10 @@
     
     </summary>
     
-      <category term="技术" scheme="https://skr-king.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="算法" scheme="https://skr-king.github.io/categories/%E7%AE%97%E6%B3%95/"/>
     
     
-      <category term="web" scheme="https://skr-king.github.io/tags/web/"/>
-    
-      <category term="悦读" scheme="https://skr-king.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
+      <category term="DFS" scheme="https://skr-king.github.io/tags/DFS/"/>
     
   </entry>
   
@@ -87,7 +79,7 @@
     <link href="https://skr-king.github.io/2019/09/20/datastruct-1/"/>
     <id>https://skr-king.github.io/2019/09/20/datastruct-1/</id>
     <published>2019-09-20T12:29:30.000Z</published>
-    <updated>2019-10-03T05:00:20.902Z</updated>
+    <updated>2019-10-03T06:48:31.352Z</updated>
     
     <summary type="html">
     
@@ -95,12 +87,8 @@
     
     </summary>
     
-      <category term="技术" scheme="https://skr-king.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="算法" scheme="https://skr-king.github.io/categories/%E7%AE%97%E6%B3%95/"/>
     
-    
-      <category term="web" scheme="https://skr-king.github.io/tags/web/"/>
-    
-      <category term="悦读" scheme="https://skr-king.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
@@ -109,7 +97,7 @@
     <link href="https://skr-king.github.io/2019/09/15/learn-4/"/>
     <id>https://skr-king.github.io/2019/09/15/learn-4/</id>
     <published>2019-09-15T10:09:58.000Z</published>
-    <updated>2019-10-03T05:25:35.467Z</updated>
+    <updated>2019-10-03T06:56:02.055Z</updated>
     
     <summary type="html">
     
@@ -117,12 +105,10 @@
     
     </summary>
     
-      <category term="技术" scheme="https://skr-king.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="算法" scheme="https://skr-king.github.io/categories/%E7%AE%97%E6%B3%95/"/>
     
     
-      <category term="web" scheme="https://skr-king.github.io/tags/web/"/>
-    
-      <category term="悦读" scheme="https://skr-king.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
+      <category term="DP" scheme="https://skr-king.github.io/tags/DP/"/>
     
   </entry>
   
@@ -131,7 +117,7 @@
     <link href="https://skr-king.github.io/2019/09/14/Learn-3/"/>
     <id>https://skr-king.github.io/2019/09/14/Learn-3/</id>
     <published>2019-09-14T02:34:55.000Z</published>
-    <updated>2019-10-03T05:24:48.138Z</updated>
+    <updated>2019-10-03T06:56:42.366Z</updated>
     
     <summary type="html">
     
@@ -139,12 +125,10 @@
     
     </summary>
     
-      <category term="技术" scheme="https://skr-king.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="算法" scheme="https://skr-king.github.io/categories/%E7%AE%97%E6%B3%95/"/>
     
     
-      <category term="web" scheme="https://skr-king.github.io/tags/web/"/>
-    
-      <category term="悦读" scheme="https://skr-king.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
+      <category term="STL" scheme="https://skr-king.github.io/tags/STL/"/>
     
   </entry>
   
@@ -153,7 +137,7 @@
     <link href="https://skr-king.github.io/2019/09/11/learn-2/"/>
     <id>https://skr-king.github.io/2019/09/11/learn-2/</id>
     <published>2019-09-11T05:56:29.000Z</published>
-    <updated>2019-10-03T05:49:00.072Z</updated>
+    <updated>2019-10-03T06:55:49.007Z</updated>
     
     <summary type="html">
     
@@ -161,12 +145,10 @@
     
     </summary>
     
-      <category term="技术" scheme="https://skr-king.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="算法" scheme="https://skr-king.github.io/categories/%E7%AE%97%E6%B3%95/"/>
     
     
-      <category term="web" scheme="https://skr-king.github.io/tags/web/"/>
-    
-      <category term="悦读" scheme="https://skr-king.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
+      <category term="STL" scheme="https://skr-king.github.io/tags/STL/"/>
     
   </entry>
   
@@ -175,7 +157,7 @@
     <link href="https://skr-king.github.io/2019/09/09/learn-1/"/>
     <id>https://skr-king.github.io/2019/09/09/learn-1/</id>
     <published>2019-09-09T02:23:56.000Z</published>
-    <updated>2019-10-03T05:23:29.400Z</updated>
+    <updated>2019-10-03T06:55:29.481Z</updated>
     
     <summary type="html">
     
@@ -183,12 +165,10 @@
     
     </summary>
     
-      <category term="技术" scheme="https://skr-king.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="算法" scheme="https://skr-king.github.io/categories/%E7%AE%97%E6%B3%95/"/>
     
     
-      <category term="web" scheme="https://skr-king.github.io/tags/web/"/>
-    
-      <category term="悦读" scheme="https://skr-king.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
+      <category term="sort（）" scheme="https://skr-king.github.io/tags/sort%EF%BC%88%EF%BC%89/"/>
     
   </entry>
   
@@ -197,7 +177,7 @@
     <link href="https://skr-king.github.io/2019/09/06/matplotlib/"/>
     <id>https://skr-king.github.io/2019/09/06/matplotlib/</id>
     <published>2019-09-06T13:53:59.000Z</published>
-    <updated>2019-10-03T05:29:34.122Z</updated>
+    <updated>2019-10-03T06:58:39.609Z</updated>
     
     <summary type="html">
     
@@ -205,12 +185,10 @@
     
     </summary>
     
-      <category term="技术" scheme="https://skr-king.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="AI" scheme="https://skr-king.github.io/categories/AI/"/>
     
     
-      <category term="web" scheme="https://skr-king.github.io/tags/web/"/>
-    
-      <category term="悦读" scheme="https://skr-king.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
+      <category term="matplotlib" scheme="https://skr-king.github.io/tags/matplotlib/"/>
     
   </entry>
   
@@ -219,7 +197,7 @@
     <link href="https://skr-king.github.io/2019/08/29/Essay/"/>
     <id>https://skr-king.github.io/2019/08/29/Essay/</id>
     <published>2019-08-29T13:54:17.000Z</published>
-    <updated>2019-10-03T05:06:34.807Z</updated>
+    <updated>2019-10-03T06:49:31.878Z</updated>
     
     <summary type="html">
     
@@ -227,12 +205,8 @@
     
     </summary>
     
-      <category term="技术" scheme="https://skr-king.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="生活" scheme="https://skr-king.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
     
-    
-      <category term="web" scheme="https://skr-king.github.io/tags/web/"/>
-    
-      <category term="悦读" scheme="https://skr-king.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
@@ -241,7 +215,7 @@
     <link href="https://skr-king.github.io/2019/08/28/Looking-at-the-stars/"/>
     <id>https://skr-king.github.io/2019/08/28/Looking-at-the-stars/</id>
     <published>2019-08-28T09:41:07.000Z</published>
-    <updated>2019-10-03T05:27:43.767Z</updated>
+    <updated>2019-10-03T06:57:22.487Z</updated>
     
     <summary type="html">
     
@@ -249,12 +223,8 @@
     
     </summary>
     
-      <category term="技术" scheme="https://skr-king.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="生活" scheme="https://skr-king.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
     
-    
-      <category term="web" scheme="https://skr-king.github.io/tags/web/"/>
-    
-      <category term="悦读" scheme="https://skr-king.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
@@ -263,7 +233,7 @@
     <link href="https://skr-king.github.io/2019/08/21/Keras-note-3/"/>
     <id>https://skr-king.github.io/2019/08/21/Keras-note-3/</id>
     <published>2019-08-21T02:41:36.000Z</published>
-    <updated>2019-10-03T05:20:08.585Z</updated>
+    <updated>2019-10-03T06:54:28.261Z</updated>
     
     <summary type="html">
     
@@ -271,12 +241,12 @@
     
     </summary>
     
-      <category term="技术" scheme="https://skr-king.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="AI" scheme="https://skr-king.github.io/categories/AI/"/>
     
     
-      <category term="web" scheme="https://skr-king.github.io/tags/web/"/>
+      <category term="note" scheme="https://skr-king.github.io/tags/note/"/>
     
-      <category term="悦读" scheme="https://skr-king.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
+      <category term="keras" scheme="https://skr-king.github.io/tags/keras/"/>
     
   </entry>
   
@@ -285,7 +255,7 @@
     <link href="https://skr-king.github.io/2019/08/20/Stanford-Machine-Learning-camp/"/>
     <id>https://skr-king.github.io/2019/08/20/Stanford-Machine-Learning-camp/</id>
     <published>2019-08-20T03:33:29.000Z</published>
-    <updated>2019-10-03T05:35:25.527Z</updated>
+    <updated>2019-10-03T07:01:07.617Z</updated>
     
     <summary type="html">
     
@@ -293,12 +263,10 @@
     
     </summary>
     
-      <category term="技术" scheme="https://skr-king.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="AI" scheme="https://skr-king.github.io/categories/AI/"/>
     
     
-      <category term="web" scheme="https://skr-king.github.io/tags/web/"/>
-    
-      <category term="悦读" scheme="https://skr-king.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
+      <category term="learn" scheme="https://skr-king.github.io/tags/learn/"/>
     
   </entry>
   
@@ -307,7 +275,7 @@
     <link href="https://skr-king.github.io/2019/08/20/Keras-note-2/"/>
     <id>https://skr-king.github.io/2019/08/20/Keras-note-2/</id>
     <published>2019-08-19T23:09:24.000Z</published>
-    <updated>2019-10-03T05:19:39.283Z</updated>
+    <updated>2019-10-03T06:53:51.708Z</updated>
     
     <summary type="html">
     
@@ -315,12 +283,12 @@
     
     </summary>
     
-      <category term="技术" scheme="https://skr-king.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="AI" scheme="https://skr-king.github.io/categories/AI/"/>
     
     
-      <category term="web" scheme="https://skr-king.github.io/tags/web/"/>
+      <category term="note" scheme="https://skr-king.github.io/tags/note/"/>
     
-      <category term="悦读" scheme="https://skr-king.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
+      <category term="keras" scheme="https://skr-king.github.io/tags/keras/"/>
     
   </entry>
   
@@ -329,7 +297,7 @@
     <link href="https://skr-king.github.io/2019/08/19/Keras-note-1/"/>
     <id>https://skr-king.github.io/2019/08/19/Keras-note-1/</id>
     <published>2019-08-19T13:46:23.000Z</published>
-    <updated>2019-10-03T05:18:47.037Z</updated>
+    <updated>2019-10-03T06:54:03.784Z</updated>
     
     <summary type="html">
     
@@ -337,12 +305,12 @@
     
     </summary>
     
-      <category term="技术" scheme="https://skr-king.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="AI" scheme="https://skr-king.github.io/categories/AI/"/>
     
     
-      <category term="web" scheme="https://skr-king.github.io/tags/web/"/>
+      <category term="note" scheme="https://skr-king.github.io/tags/note/"/>
     
-      <category term="悦读" scheme="https://skr-king.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
+      <category term="keras" scheme="https://skr-king.github.io/tags/keras/"/>
     
   </entry>
   
@@ -351,7 +319,7 @@
     <link href="https://skr-king.github.io/2019/08/17/Ubutu%E7%B3%BB%E7%BB%9F%E6%96%87%E4%BB%B6%E7%BB%93%E6%9E%84/"/>
     <id>https://skr-king.github.io/2019/08/17/Ubutu系统文件结构/</id>
     <published>2019-08-17T03:47:20.000Z</published>
-    <updated>2019-10-03T05:35:50.760Z</updated>
+    <updated>2019-10-03T07:01:34.586Z</updated>
     
     <summary type="html">
     
@@ -359,12 +327,10 @@
     
     </summary>
     
-      <category term="技术" scheme="https://skr-king.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="乐趣" scheme="https://skr-king.github.io/categories/%E4%B9%90%E8%B6%A3/"/>
     
     
-      <category term="web" scheme="https://skr-king.github.io/tags/web/"/>
-    
-      <category term="悦读" scheme="https://skr-king.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
+      <category term="ubuntu" scheme="https://skr-king.github.io/tags/ubuntu/"/>
     
   </entry>
   
@@ -373,7 +339,7 @@
     <link href="https://skr-king.github.io/2019/08/11/Pip-command/"/>
     <id>https://skr-king.github.io/2019/08/11/Pip-command/</id>
     <published>2019-08-11T10:58:17.000Z</published>
-    <updated>2019-10-03T05:32:20.887Z</updated>
+    <updated>2019-10-03T06:59:57.259Z</updated>
     
     <summary type="html">
     
@@ -381,12 +347,10 @@
     
     </summary>
     
-      <category term="技术" scheme="https://skr-king.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="乐趣" scheme="https://skr-king.github.io/categories/%E4%B9%90%E8%B6%A3/"/>
     
     
-      <category term="web" scheme="https://skr-king.github.io/tags/web/"/>
-    
-      <category term="悦读" scheme="https://skr-king.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
+      <category term="pip" scheme="https://skr-king.github.io/tags/pip/"/>
     
   </entry>
   
@@ -395,7 +359,7 @@
     <link href="https://skr-king.github.io/2019/08/11/Network-App-Recommend/"/>
     <id>https://skr-king.github.io/2019/08/11/Network-App-Recommend/</id>
     <published>2019-08-11T09:39:24.000Z</published>
-    <updated>2019-10-03T05:31:40.018Z</updated>
+    <updated>2019-10-03T06:59:30.059Z</updated>
     
     <summary type="html">
     
@@ -403,12 +367,10 @@
     
     </summary>
     
-      <category term="技术" scheme="https://skr-king.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="乐趣" scheme="https://skr-king.github.io/categories/%E4%B9%90%E8%B6%A3/"/>
     
     
-      <category term="web" scheme="https://skr-king.github.io/tags/web/"/>
-    
-      <category term="悦读" scheme="https://skr-king.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
+      <category term="sharing" scheme="https://skr-king.github.io/tags/sharing/"/>
     
   </entry>
   
@@ -417,7 +379,7 @@
     <link href="https://skr-king.github.io/2019/08/04/Appreciation-of-Novels-2/"/>
     <id>https://skr-king.github.io/2019/08/04/Appreciation-of-Novels-2/</id>
     <published>2019-08-04T02:18:50.000Z</published>
-    <updated>2019-10-03T04:56:06.658Z</updated>
+    <updated>2019-10-03T06:46:46.558Z</updated>
     
     <summary type="html">
     
@@ -425,10 +387,8 @@
     
     </summary>
     
-      <category term="技术" scheme="https://skr-king.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="生活" scheme="https://skr-king.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
     
-    
-      <category term="web" scheme="https://skr-king.github.io/tags/web/"/>
     
       <category term="悦读" scheme="https://skr-king.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
     
@@ -439,7 +399,7 @@
     <link href="https://skr-king.github.io/2019/08/03/NCF-Data-Processing/"/>
     <id>https://skr-king.github.io/2019/08/03/NCF-Data-Processing/</id>
     <published>2019-08-03T14:02:07.000Z</published>
-    <updated>2019-10-03T05:30:49.705Z</updated>
+    <updated>2019-10-03T06:59:11.878Z</updated>
     
     <summary type="html">
     
@@ -447,12 +407,10 @@
     
     </summary>
     
-      <category term="技术" scheme="https://skr-king.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="AI" scheme="https://skr-king.github.io/categories/AI/"/>
     
     
-      <category term="web" scheme="https://skr-king.github.io/tags/web/"/>
-    
-      <category term="悦读" scheme="https://skr-king.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
+      <category term="NCF" scheme="https://skr-king.github.io/tags/NCF/"/>
     
   </entry>
   
