@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
   
-  <title itemprop="name">git远程操作仓库 | AngelNI&#39;s Blog</title>
+  <title itemprop="name">jsDelivr+Github建立免费CDN | AngelNI&#39;s Blog</title>
   
     <link rel="shortcut icon" href="/images/favicon.ico">
   
@@ -341,11 +341,11 @@
 
   <div class="pattern-center single-center">
     <!-- 有配图默认渲染第一张 -->
-    <div class="pattern-attachment-img lazyload" style="background-image: url(https://s2.ax1x.com/2019/09/26/un5y9I.jpg);" src="https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progress-bar-stripe-loader.svg" data-src="https://s2.ax1x.com/2019/09/26/un5y9I.jpg">
+    <div class="pattern-attachment-img lazyload" style="background-image: url(https://s2.ax1x.com/2019/10/03/u09EOf.jpg);" src="https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progress-bar-stripe-loader.svg" data-src="https://s2.ax1x.com/2019/10/03/u09EOf.jpg">
     </div>
     <header class="pattern-header single-header">
       <h1 class="entry-title">
-      git远程操作仓库</h1>
+      jsDelivr+Github建立免费CDN</h1>
       <p class="entry-census">
         <span>
           <a href="skr-king.github.io">
@@ -357,7 +357,7 @@
         </span>
         <span class="bull">
         ·</span>
-        2019-10-2<span class="bull">
+        2019-10-6<span class="bull">
         ·</span>
       <span id="busuanzi_value_page_pv"></span>次阅读</p>
     </header>
@@ -371,26 +371,19 @@
         <!--<div class="toc-entry-content"><!-- 套嵌目录使用（主要为了支援评论）-->
         
         <div class="entry-content">
-          <p>如果我在勇敢点，结果会不会比想象中的要好。<a id="more"></a></p>
-<p>Git是一个开源的分布式版本控制系统，分布式相比集中式的最大区别是Git没有“中央服务器”，每位开发者都可以通过克隆（git clone）远程库，在本地机器上存储一个完整的Git仓库，还可以把代码的修改提交到本地库。当然了，本地库修改完成后也可以上传到远程仓库，操作方便。</p>
-<p>在学习git的操作方法，总是偶然的上传成功。这次不一样了，向大家介绍每一步的操作流程和成功案例。</p>
-<ul>
-<li>git clone + “要克隆的仓库地址链接”</li>
-</ul>
-<p><img src="https://s2.ax1x.com/2019/10/02/uaQlmd.png" alt border="0"></p>
-<p>克隆之后对仓库文件进行处理，添加或删除，修改或重写。</p>
-<ul>
-<li>进入以克隆的文件夹，并执行 git init初始化</li>
-</ul>
-<p><img src="https://s2.ax1x.com/2019/10/02/uaQskq.png" alt border="0"></p>
-<ul>
-<li>git add * 将所有文件添加到缓存</li>
-<li>git pull + “文件储存的绝对路径”</li>
-<li>git commit -m +”备注”</li>
-<li>git remote add “备注” +”仓库链接（也是克隆的链接地址）”</li>
-<li>最后，git push 静静等待，操作成功。</li>
-</ul>
-<p>如果你顺利完成了以上步骤，那么就要恭喜你了，已经成功上传到github仓库。其他储存仓库操作步骤类似。</p>
+          <p>我喜欢你。</p>
+<a id="more"></a>
+<h1 id="1-CDN"><a href="#1-CDN" class="headerlink" title="1.CDN"></a>1.CDN</h1><p>CDN的全称是Content Delivery Network，即内容分发网络。CDN是构建在网络之上的内容分发网络，依靠部署在各地的边缘服务器，通过中心平台的负载均衡、内容分发、调度等功能模块，使用户就近获取所需内容，降低网络拥塞，提高用户访问响应速度和命中率。CDN的关键技术主要有内容存储和分发技术。——百度百科</p>
+<p>放在Github的资源在国内加载速度比较慢，因此需要使用CDN加速来优化网站打开速度，jsDelivr + Github便是免费且好用的CDN，非常适合博客网站使用。</p>
+<h1 id="2-步骤方法"><a href="#2-步骤方法" class="headerlink" title="2.步骤方法"></a>2.步骤方法</h1><h2 id="1-新建github仓库"><a href="#1-新建github仓库" class="headerlink" title="1.新建github仓库"></a>1.新建github仓库</h2><p><img src="https://s2.ax1x.com/2019/10/06/ugJ2Yq.png" alt="ugJ2Yq.png" border="0"></p>
+<h2 id="2-克隆Github仓库到本地"><a href="#2-克隆Github仓库到本地" class="headerlink" title="2.克隆Github仓库到本地"></a>2.克隆Github仓库到本地</h2><p>点击 Clone or download，一键复制仓库地址</p>
+<p><img src="https://s2.ax1x.com/2019/10/06/ugJ46U.png" alt="ugJ46U.png" border="0"></p>
+<h2 id="3-上传资源"><a href="#3-上传资源" class="headerlink" title="3.上传资源"></a>3.上传资源</h2><p>可参考这边博客<a href="https://angelni.github.io/AngelNI.github.io/untitled/" target="_blank" rel="noopener">https://angelni.github.io/AngelNI.github.io/untitled/</a></p>
+<h2 id="4-发布仓库"><a href="#4-发布仓库" class="headerlink" title="4.发布仓库"></a>4.发布仓库</h2><p><img src="https://s2.ax1x.com/2019/10/06/ugtm26.png" alt="ugtm26.png" border="0"></p>
+<p>自定义发布版本号</p>
+<p><img src="https://s2.ax1x.com/2019/10/06/ugtNxf.png" alt="ugtNxf.png" border="0"></p>
+<h2 id="5、通过jsDelivr引用资源"><a href="#5、通过jsDelivr引用资源" class="headerlink" title="5、通过jsDelivr引用资源"></a>5、通过jsDelivr引用资源</h2><p>使用方法：<a href="https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@发布的版本号/文件路径" target="_blank" rel="noopener">https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@发布的版本号/文件路径</a></p>
+<p>希望这篇博客对您有帮助~</p>
 
         </div>
         <!-- .entry-content -->
@@ -418,36 +411,19 @@
       <div class="toc" style="background: none;"></div>
       <section class="post-squares nextprev">
         
+        
           
-            <div class="post-nepre half previous">
+            <div class="post-nepre full next">
           
-            <a href="/Skr-king.github.io/2019/10/06/termux/" rel="prev">
+            <a href="/Skr-king.github.io/2019/10/06/termux/" rel="next">
               <div class="background">
                 <img class="lazyload" src="https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progress-bar-stripe-loader.svg" data-src="https://s2.ax1x.com/2019/09/22/uSXeN8.jpg" style="width: 100%; height: 100%; object-fit: cover; pointer-events: none;" onerror="imgError(this,3)" src="https://s2.ax1x.com/2019/09/22/uSXeN8.jpg">
-              </div>
-              <span class="label">
-              Previous Post</span>
-              <div class="info">
-                <h3>
-                安卓神器——termux</h3>
-                <hr>
-              </div>
-            </a>
-          </div>
-        
-        
-          
-            <div class="post-nepre half next">
-          
-            <a href="/Skr-king.github.io/2019/09/24/hanoi/" rel="next">
-              <div class="background">
-                <img class="lazyload" src="https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progress-bar-stripe-loader.svg" data-src="https://s2.ax1x.com/2019/09/22/uSXknI.jpg" style="width: 100%; height: 100%; object-fit: cover; pointer-events: none;" onerror="imgError(this,3)" src="https://s2.ax1x.com/2019/09/22/uSXknI.jpg">
               </div>
               <span class="label">
               Next Post</span>
               <div class="info">
                 <h3>
-                python实现汉诺塔移动可视化</h3>
+                安卓神器——termux</h3>
                 <hr>
               </div>
             </a>

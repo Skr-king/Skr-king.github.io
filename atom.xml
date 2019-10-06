@@ -6,7 +6,7 @@
   <link href="/Skr-king.github.io/atom.xml" rel="self"/>
   
   <link href="https://skr-king.github.io/"/>
-  <updated>2019-10-03T07:01:51.658Z</updated>
+  <updated>2019-10-06T14:19:10.411Z</updated>
   <id>https://skr-king.github.io/</id>
   
   <author>
@@ -15,6 +15,46 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>jsDelivr+Github建立免费CDN</title>
+    <link href="https://skr-king.github.io/2019/10/06/jsDelivr-Github/"/>
+    <id>https://skr-king.github.io/2019/10/06/jsDelivr-Github/</id>
+    <published>2019-10-06T13:15:29.000Z</published>
+    <updated>2019-10-06T14:19:10.411Z</updated>
+    
+    <summary type="html">
+    
+      快到我的碗里来，不，是怀里。
+    
+    </summary>
+    
+      <category term="乐趣" scheme="https://skr-king.github.io/categories/%E4%B9%90%E8%B6%A3/"/>
+    
+    
+      <category term="CDN" scheme="https://skr-king.github.io/tags/CDN/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>安卓神器——termux</title>
+    <link href="https://skr-king.github.io/2019/10/06/termux/"/>
+    <id>https://skr-king.github.io/2019/10/06/termux/</id>
+    <published>2019-10-06T12:42:33.000Z</published>
+    <updated>2019-10-06T14:17:01.650Z</updated>
+    
+    <summary type="html">
+    
+      快到我的碗里来，不，是怀里。
+    
+    </summary>
+    
+      <category term="乐趣" scheme="https://skr-king.github.io/categories/%E4%B9%90%E8%B6%A3/"/>
+    
+    
+      <category term="termux" scheme="https://skr-king.github.io/tags/termux/"/>
+    
+  </entry>
   
   <entry>
     <title>git远程操作仓库</title>
@@ -371,46 +411,6 @@
     
     
       <category term="sharing" scheme="https://skr-king.github.io/tags/sharing/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Appreciation of Novels(2)</title>
-    <link href="https://skr-king.github.io/2019/08/04/Appreciation-of-Novels-2/"/>
-    <id>https://skr-king.github.io/2019/08/04/Appreciation-of-Novels-2/</id>
-    <published>2019-08-04T02:18:50.000Z</published>
-    <updated>2019-10-03T06:46:46.558Z</updated>
-    
-    <summary type="html">
-    
-      “不要忘记你曾经是怎样的小孩”，“不要忘记你曾希望变成怎样的大人”。
-    
-    </summary>
-    
-      <category term="生活" scheme="https://skr-king.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
-    
-    
-      <category term="悦读" scheme="https://skr-king.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>NCF Data Processing</title>
-    <link href="https://skr-king.github.io/2019/08/03/NCF-Data-Processing/"/>
-    <id>https://skr-king.github.io/2019/08/03/NCF-Data-Processing/</id>
-    <published>2019-08-03T14:02:07.000Z</published>
-    <updated>2019-10-03T06:59:11.878Z</updated>
-    
-    <summary type="html">
-    
-      左眼永远见不到右眼，只能陪她一起哭泣。
-    
-    </summary>
-    
-      <category term="AI" scheme="https://skr-king.github.io/categories/AI/"/>
-    
-    
-      <category term="NCF" scheme="https://skr-king.github.io/tags/NCF/"/>
     
   </entry>
   
