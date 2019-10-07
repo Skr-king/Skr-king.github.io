@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
   
-  <title itemprop="name">jsDelivr+Github建立免费CDN | AngelNI&#39;s Blog</title>
+  <title itemprop="name">AngelNI&#39;s Blog</title>
   
     <link rel="shortcut icon" href="/images/favicon.ico">
   
@@ -335,151 +335,124 @@
   </div>
 </header>
 
-      <link rel="stylesheet" type="text/css" href="/css/sharejs.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.css">
-<div class="pattern-center-blank"></div>
-
-  <div class="pattern-center single-center">
-    <!-- 有配图默认渲染第一张 -->
-    <div class="pattern-attachment-img lazyload" style="background-image: url(https://s2.ax1x.com/2019/10/03/u09EOf.jpg);" src="https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progress-bar-stripe-loader.svg" data-src="https://s2.ax1x.com/2019/10/03/u09EOf.jpg">
-    </div>
-    <header class="pattern-header single-header">
-      <h1 class="entry-title">
-      jsDelivr+Github建立免费CDN</h1>
-      <p class="entry-census">
-        <span>
-          <a href="skr-king.github.io">
-            <img src="https://s2.ax1x.com/2019/10/03/uwWzOf.jpg">
-          </a>
-        </span>
-        <span>
-          <a href="skr-king.github.io">Hui Ning</a>
-        </span>
-        <span class="bull">
-        ·</span>
-        2019-10-6<span class="bull">
-        ·</span>
-      <span id="busuanzi_value_page_pv"></span>次阅读</p>
-    </header>
-  </div>
-
+      <div class="blank" style="padding-top: 0px;"></div>
 <div id="content" class="site-content">
+  
+  <div class="notice" style="margin-top:60px">
+    <i class="iconfont icon-notification">
+    </i>
+    <div class="notice-content">Welcome to my world</div>
+  </div>
+  
+  <div class="top-feature-row">
+  <h1 class="fes-title" style="font-family: 'Ubuntu', sans-serif;">
+  <i class="fa fa-anchor" aria-hidden="true">
+  </i>
+  START:DASH!!</h1>
+  
+  <div class="top-feature-v2">
+    <div class="the-feature square from_left_and_right">
+      <a href="/theme-sakura/" target="_blank">
+        <div class="img">
+          <img src="https://cdn.jsdelivr.net/gh/Skr-king/CDN@1.0/img/startdash/sakura.md.png">
+        </div>
+        <div class="info">
+          <h3>Sakura</h3>
+          <p>本站 hexo 主题</p>
+        </div>
+      </a>
+    </div>
+  </div>
+  
+  <div class="top-feature-v2">
+    <div class="the-feature square from_left_and_right">
+      <a href="https://angelni.netlify.com" target="_blank">
+        <div class="img">
+          <img src="https://cdn.jsdelivr.net/gh/Skr-king/CDN@1.0/img/startdash/bilibili.jpg">
+        </div>
+        <div class="info">
+          <h3>Notebook</h3>
+          <p>博主的笔记</p>
+        </div>
+      </a>
+    </div>
+  </div>
+  
+  <div class="top-feature-v2">
+    <div class="the-feature square from_left_and_right">
+      <a href="https://angelni.github.io/photo/" target="_blank">
+        <div class="img">
+          <img src="https://cdn.jsdelivr.net/gh/Skr-king/CDN@1.0/img/startdash/wangshiwu.jpg">
+        </div>
+        <div class="info">
+          <h3>Hui的相册</h3>
+          <p>记录生活</p>
+        </div>
+      </a>
+    </div>
+  </div>
+  
+</div>
   <div id="primary" class="content-area">
     <main id="main" class="site-main" role="main">
-      <article id="post-1" class="post-1 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
-        <div class="toc"></div>
-        <!--<div class="toc-entry-content"><!-- 套嵌目录使用（主要为了支援评论）-->
-        
-        <div class="entry-content">
-          <p>我喜欢你。</p>
-<a id="more"></a>
-<h1 id="1-CDN"><a href="#1-CDN" class="headerlink" title="1.CDN"></a>1.CDN</h1><p>CDN的全称是Content Delivery Network，即内容分发网络。CDN是构建在网络之上的内容分发网络，依靠部署在各地的边缘服务器，通过中心平台的负载均衡、内容分发、调度等功能模块，使用户就近获取所需内容，降低网络拥塞，提高用户访问响应速度和命中率。CDN的关键技术主要有内容存储和分发技术。——百度百科</p>
-<p>放在Github的资源在国内加载速度比较慢，因此需要使用CDN加速来优化网站打开速度，jsDelivr + Github便是免费且好用的CDN，非常适合博客网站使用。</p>
-<h1 id="2-步骤方法"><a href="#2-步骤方法" class="headerlink" title="2.步骤方法"></a>2.步骤方法</h1><h2 id="1-新建github仓库"><a href="#1-新建github仓库" class="headerlink" title="1.新建github仓库"></a>1.新建github仓库</h2><p><img src="https://s2.ax1x.com/2019/10/06/ugJ2Yq.png" alt="ugJ2Yq.png" border="0"></p>
-<h2 id="2-克隆Github仓库到本地"><a href="#2-克隆Github仓库到本地" class="headerlink" title="2.克隆Github仓库到本地"></a>2.克隆Github仓库到本地</h2><p>点击 Clone or download，一键复制仓库地址</p>
-<p><img src="https://s2.ax1x.com/2019/10/06/ugJ46U.png" alt="ugJ46U.png" border="0"></p>
-<h2 id="3-上传资源"><a href="#3-上传资源" class="headerlink" title="3.上传资源"></a>3.上传资源</h2><p>可参考这边博客<a href="https://angelni.github.io/AngelNI.github.io/untitled/" target="_blank" rel="noopener">https://angelni.github.io/AngelNI.github.io/untitled/</a></p>
-<h2 id="4-发布仓库"><a href="#4-发布仓库" class="headerlink" title="4.发布仓库"></a>4.发布仓库</h2><p><img src="https://s2.ax1x.com/2019/10/06/ugtm26.png" alt="ugtm26.png" border="0"></p>
-<p>自定义发布版本号</p>
-<p><img src="https://s2.ax1x.com/2019/10/06/ugtNxf.png" alt="ugtNxf.png" border="0"></p>
-<h2 id="5、通过jsDelivr引用资源"><a href="#5、通过jsDelivr引用资源" class="headerlink" title="5、通过jsDelivr引用资源"></a>5、通过jsDelivr引用资源</h2><p>使用方法：<a href="https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@发布的版本号/文件路径" target="_blank" rel="noopener">https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@发布的版本号/文件路径</a></p>
-<p>希望这篇博客对您有帮助~</p>
-
-        </div>
-        <!-- .entry-content -->
-        <div class="single-reward">
-          <div class="reward-open">赏<div class="reward-main">
-              <ul class="reward-row">
-                <li class="alipay-code"><img src="https://cdn.jsdelivr.net/gh/Skr-king/CDN@1.0/img/custom/donate/AliPayQR.jpg"></li>
-                <li class="wechat-code"><img src="https://cdn.jsdelivr.net/gh/Skr-king/CDN@1.0/img/custom/donate/WeChanQR.jpg"></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div style="text-align:center; width: 100%" class="social-share share-mobile" data-disabled="diandian, tencent"></div>
-        <footer class="post-footer">
-          <div class="post-lincenses"><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" target="_blank" rel="nofollow"><i class="fa fa-creative-commons" aria-hidden="true"></i> 知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a></div>
-          <div class="post-tags">
-          </div>
-          <div class="post-share">
-            <div class="social-share sharehidden share-component"></div>
-            <i class="iconfont show-share icon-forward"></i>
-          </div>
-        </footer><!-- .entry-footer -->
-      </article>
-      <!-- #post-## -->
-      <div class="toc" style="background: none;"></div>
-      <section class="post-squares nextprev">
-        
-          
-            <div class="post-nepre half previous">
-          
-            <a href="/Skr-king.github.io/2019/10/07/My-World/" rel="prev">
-              <div class="background">
-                <img class="lazyload" src="https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progress-bar-stripe-loader.svg" data-src="https://s2.ax1x.com/2019/10/06/ugrmRJ.jpg" style="width: 100%; height: 100%; object-fit: cover; pointer-events: none;" onerror="imgError(this,3)" src="https://s2.ax1x.com/2019/10/06/ugrmRJ.jpg">
-              </div>
-              <span class="label">
-              Previous Post</span>
-              <div class="info">
-                <h3>
-                My-world</h3>
-                <hr>
-              </div>
-            </a>
-          </div>
-        
-        
-          
-            <div class="post-nepre half next">
-          
-            <a href="/Skr-king.github.io/2019/10/06/termux/" rel="next">
-              <div class="background">
-                <img class="lazyload" src="https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progress-bar-stripe-loader.svg" data-src="https://s2.ax1x.com/2019/09/22/uSXeN8.jpg" style="width: 100%; height: 100%; object-fit: cover; pointer-events: none;" onerror="imgError(this,3)" src="https://s2.ax1x.com/2019/09/22/uSXeN8.jpg">
-              </div>
-              <span class="label">
-              Next Post</span>
-              <div class="info">
-                <h3>
-                安卓神器——termux</h3>
-                <hr>
-              </div>
-            </a>
-          </div>
-        
-      </section>
+      <h1 class="main-title" style="font-family: 'Ubuntu', sans-serif;">
+      <i class="fa fa-envira" aria-hidden="true"></i>
+      Discovery</h1>
       
-<div id="vcomments"></div>
-<script>
-  window.onload = function(){
-      var valine = new Valine();
-      valine.init({
-        el: '#vcomments',
-        appId: "0dNioPuDCFsscn6y58dczYiy-gzGzoHsz",
-        appKey: "jbyn5TRGmiiAsYjo7PFFzrYJ",
-        path: window.location.pathname,
-        placeholder: "你是我一生只会遇见一次的惊喜 ..."
-      })
-  }
-</script>
+  <!-- 首页默认取最最新文章集 -->
+  
+    
+<article  class="post post-list-thumb post-list-thumb-left"  class="post post-list-thumb" itemscope="" itemtype="http://schema.org/BlogPosting">
 
-      <section class="author-profile">
-        <div class="info" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
-          <a href="skr-king.github.io" class="profile gravatar"><img src="https://s2.ax1x.com/2019/10/03/uwWzOf.jpg" itemprop="image" alt="Hui Ning" height="70" width="70"></a>
-          <div class="meta">
-            <span class="title">Author</span>
-            <h3 itemprop="name">
-            <a href="skr-king.github.io" itemprop="url" rel="author">Hui Ning</a>
-            </h3>
-          </div>
+  <div class="post-thumb">
+    <a href="/Skr-king.github.io/2018/12/12/Hexo-Theme-Sakura/">
+      <img class="lazyload" onerror="imgError(this,3)" src="https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progress-bar-stripe-loader.svg" data-src="https://static.2heng.xin/wp-content/uploads//2019/02/wallhaven-672007-1-1024x576.png">
+    </a>
+  </div>
+  <div class="post-content-wrap">
+    <div class="post-content">
+      <div class="post-date">
+        <i class="iconfont icon-time">
+        </i>2018-12-12 22:12</div>
+      <a href="/Skr-king.github.io/2018/12/12/Hexo-Theme-Sakura/" class="post-title">
+        <h3>Hexo-Theme-Sakura</h3>
+      </a>
+      <div class="post-meta">
+        <span><i class="fa fa-tags"></i>
+        
+        </span>
+        <span>
+          <i class="iconfont icon-file"></i>
+          
+            <a href="/Skr-king.github.io/categories/乐趣/">乐趣</a>
+          
+        </span>
+      </div>
+      <div class="float-content">
+        <p>hexo-sakura主题使用教程</p>
+        <div class="post-bottom">
+          <a href="/Skr-king.github.io/2018/12/12/Hexo-Theme-Sakura/" class="button-normal">
+            <i class="iconfont icon-caidan"></i>
+          </a>
         </div>
-        <hr>
-        <p><i class="iconfont icon-write"></i>一个好奇的人</p>
-      </section>
-    </main><!-- #main -->
-  </div><!-- #primary -->
+      </div>
+    </div>
+  </div>
+</article>
+  
+
+
+    </main>
+      <!-- 首页默认取最最新文章集 -->
+    <!-- 
+      <nav class="navigator">
+        
+        <a class="extend prev" rel="prev" href="/Skr-king.github.io/page/6/"><i class="iconfont icon-back"></i></a><a class="page-number" href="/Skr-king.github.io/">1</a><span class="space">&hellip;</span><a class="page-number" href="/Skr-king.github.io/page/5/">5</a><a class="page-number" href="/Skr-king.github.io/page/6/">6</a><span class="page-number current">7</span>
+      </nav>
+     -->
+  </div>
+  
 </div>
-
-
 
     </div>    
     <div class="ins-search">

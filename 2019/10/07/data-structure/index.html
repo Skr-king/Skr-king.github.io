@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
   
-  <title itemprop="name">jsDelivr+Github建立免费CDN | AngelNI&#39;s Blog</title>
+  <title itemprop="name">双栈实现计算器 | AngelNI&#39;s Blog</title>
   
     <link rel="shortcut icon" href="/images/favicon.ico">
   
@@ -341,11 +341,11 @@
 
   <div class="pattern-center single-center">
     <!-- 有配图默认渲染第一张 -->
-    <div class="pattern-attachment-img lazyload" style="background-image: url(https://s2.ax1x.com/2019/10/03/u09EOf.jpg);" src="https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progress-bar-stripe-loader.svg" data-src="https://s2.ax1x.com/2019/10/03/u09EOf.jpg">
+    <div class="pattern-attachment-img lazyload" style="background-image: url(https://s2.ax1x.com/2019/10/07/uRHZMn.jpg);" src="https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progress-bar-stripe-loader.svg" data-src="https://s2.ax1x.com/2019/10/07/uRHZMn.jpg">
     </div>
     <header class="pattern-header single-header">
       <h1 class="entry-title">
-      jsDelivr+Github建立免费CDN</h1>
+      双栈实现计算器</h1>
       <p class="entry-census">
         <span>
           <a href="skr-king.github.io">
@@ -357,7 +357,7 @@
         </span>
         <span class="bull">
         ·</span>
-        2019-10-6<span class="bull">
+        2019-10-7<span class="bull">
         ·</span>
       <span id="busuanzi_value_page_pv"></span>次阅读</p>
     </header>
@@ -371,19 +371,152 @@
         <!--<div class="toc-entry-content"><!-- 套嵌目录使用（主要为了支援评论）-->
         
         <div class="entry-content">
-          <p>我喜欢你。</p>
-<a id="more"></a>
-<h1 id="1-CDN"><a href="#1-CDN" class="headerlink" title="1.CDN"></a>1.CDN</h1><p>CDN的全称是Content Delivery Network，即内容分发网络。CDN是构建在网络之上的内容分发网络，依靠部署在各地的边缘服务器，通过中心平台的负载均衡、内容分发、调度等功能模块，使用户就近获取所需内容，降低网络拥塞，提高用户访问响应速度和命中率。CDN的关键技术主要有内容存储和分发技术。——百度百科</p>
-<p>放在Github的资源在国内加载速度比较慢，因此需要使用CDN加速来优化网站打开速度，jsDelivr + Github便是免费且好用的CDN，非常适合博客网站使用。</p>
-<h1 id="2-步骤方法"><a href="#2-步骤方法" class="headerlink" title="2.步骤方法"></a>2.步骤方法</h1><h2 id="1-新建github仓库"><a href="#1-新建github仓库" class="headerlink" title="1.新建github仓库"></a>1.新建github仓库</h2><p><img src="https://s2.ax1x.com/2019/10/06/ugJ2Yq.png" alt="ugJ2Yq.png" border="0"></p>
-<h2 id="2-克隆Github仓库到本地"><a href="#2-克隆Github仓库到本地" class="headerlink" title="2.克隆Github仓库到本地"></a>2.克隆Github仓库到本地</h2><p>点击 Clone or download，一键复制仓库地址</p>
-<p><img src="https://s2.ax1x.com/2019/10/06/ugJ46U.png" alt="ugJ46U.png" border="0"></p>
-<h2 id="3-上传资源"><a href="#3-上传资源" class="headerlink" title="3.上传资源"></a>3.上传资源</h2><p>可参考这边博客<a href="https://angelni.github.io/AngelNI.github.io/untitled/" target="_blank" rel="noopener">https://angelni.github.io/AngelNI.github.io/untitled/</a></p>
-<h2 id="4-发布仓库"><a href="#4-发布仓库" class="headerlink" title="4.发布仓库"></a>4.发布仓库</h2><p><img src="https://s2.ax1x.com/2019/10/06/ugtm26.png" alt="ugtm26.png" border="0"></p>
-<p>自定义发布版本号</p>
-<p><img src="https://s2.ax1x.com/2019/10/06/ugtNxf.png" alt="ugtNxf.png" border="0"></p>
-<h2 id="5、通过jsDelivr引用资源"><a href="#5、通过jsDelivr引用资源" class="headerlink" title="5、通过jsDelivr引用资源"></a>5、通过jsDelivr引用资源</h2><p>使用方法：<a href="https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@发布的版本号/文件路径" target="_blank" rel="noopener">https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@发布的版本号/文件路径</a></p>
-<p>希望这篇博客对您有帮助~</p>
+          <a id="more"></a>
+<h1 id="双栈实现计算器"><a href="#双栈实现计算器" class="headerlink" title="双栈实现计算器"></a>双栈实现计算器</h1><pre><code class="c++">#include&lt;iostream&gt;
+#include&lt;stack&gt;
+#include&lt;cstring&gt;
+using namespace std;
+stack&lt;int&gt; OPND;
+stack&lt;char&gt; OPRT;
+int precede(char x);
+void operate();
+int calculate(string s);
+int main()
+{
+    string str;
+    printf(&quot;\t\t--------------------------------------------\n&quot;);
+    printf(&quot;\t\t--------------双栈实现简易计算器------------\n&quot;);
+    printf(&quot;\t\t------------------欢迎您使用----------------\n&quot;);
+    printf(&quot;\t\t|                  计算器                  |\n&quot;);
+    printf(&quot;\t\t|              ----------------            |\n&quot;);
+    printf(&quot;\t\t|              |              |            |\n&quot;);
+    printf(&quot;\t\t|              ----------------            |\n&quot;);
+    printf(&quot;\t\t|              1    2    3   +             |\n&quot;);
+    printf(&quot;\t\t|              4    5    6   -             |\n&quot;);
+    printf(&quot;\t\t|              7    8    9   *             |\n&quot;);
+    printf(&quot;\t\t|              0   （    ）  /             |\n&quot;);
+    printf(&quot;\t\t--------------------------------------------\n&quot;);
+    printf(&quot;\t\t 请输入一个用#开头和结尾的表达式：\n&quot;);
+    cin&gt;&gt;str;
+    calculate(str);
+    getchar();
+    getchar();
+    return 0;
+}
+//运算符优先级判断 
+int precede(char x)
+{
+    if (x == &#39;+&#39; || x == &#39;-&#39;)  
+        return 0;  
+    else if (x == &#39;*&#39; || x == &#39;/&#39;)  
+        return 1;  
+    else if (x == &#39;(&#39; || x == &#39;)&#39;)  
+        return -1;  
+    else if (x == &#39;#&#39;)  
+        return -2;  
+}
+//二元运算 
+inline void operate(char top)
+ {
+     int a = OPND.top(); 
+    OPND.pop();
+    int b = OPND.top(); 
+    OPND.pop();
+    int c;
+
+     if (top == &#39;+&#39;) 
+     {  
+        b += a;  
+        OPND.push(b);  
+    }  
+    else if (top == &#39;-&#39;)
+    {  
+        b -= a;  
+        OPND.push(b);  
+    }  
+    else if (top == &#39;*&#39;) 
+    {  
+        b *= a;  
+        OPND.push(b);  
+    }  
+    else if (top == &#39;/&#39;) 
+    {  
+        b /= a;  
+        OPND.push(b);  
+    }   
+ }
+//读取表达式 
+int calculate(string s)
+{
+    int a,b;
+    char top;
+    for(int i = 0;i&lt;s.size();++i)
+    {
+        //判断是否为数字 
+        if(isdigit(s[i]))
+        {
+            int num = 0;
+            string number;
+            number += s[i];
+            while(isdigit(s[++i]))
+            {
+                number += s[i];
+            }
+            for( int j=0;j&lt;number.size();j++)
+            {
+                    num = num*10 +number[j] - 48;
+            }
+            OPND.push(num);
+            number.clear();
+        }
+        //对操作符的操作 
+        if(!isdigit(s[i]))
+        {
+            if(OPRT.empty())
+            {
+                OPRT.push(s[i]);
+            }
+            else
+            {
+                top = OPRT.top();
+                if(precede(s[i])&gt;precede(top) || s[i] == &#39;(&#39;)
+                {
+                    OPRT.push(s[i]);
+                }
+                else
+                {    
+                    while(precede(s[i])&lt;=precede(top))
+                    {
+                        if(top==&#39;#&#39;&amp;&amp;s[i]==&#39;#&#39;)
+                        {
+                            OPRT.pop();
+                            int ans = OPND.top();
+                            cout&lt;&lt;&quot;The answer is :&quot;&lt;&lt;ans&lt;&lt;endl;
+                            OPND.pop();
+                            return 0;
+                        }
+                        else if(top==&#39;(&#39;&amp;&amp;s[i]==&#39;)&#39;)
+                        {
+                            ++i;
+                        }
+                        else
+                        {
+                            operate(top);
+                        } 
+                         OPRT.pop(); 
+                         top = OPRT.top();              
+                    }
+                    OPRT.push(s[i]);
+                }
+            }
+        }
+    }
+}
+
+</code></pre>
+<p><img src="https://s2.ax1x.com/2019/10/07/uR2CLQ.png" alt="uR2CLQ.png" border="0"></p>
+<p><img src="https://s2.ax1x.com/2019/10/07/uR2iZj.png" alt="uR2iZj.png" border="0"></p>
+<p><img src="https://s2.ax1x.com/2019/10/07/uR29sg.png" alt="uR29sg.png" border="0"></p>
 
         </div>
         <!-- .entry-content -->
@@ -411,36 +544,19 @@
       <div class="toc" style="background: none;"></div>
       <section class="post-squares nextprev">
         
+        
           
-            <div class="post-nepre half previous">
+            <div class="post-nepre full next">
           
-            <a href="/Skr-king.github.io/2019/10/07/My-World/" rel="prev">
+            <a href="/Skr-king.github.io/2019/10/07/My-World/" rel="next">
               <div class="background">
                 <img class="lazyload" src="https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progress-bar-stripe-loader.svg" data-src="https://s2.ax1x.com/2019/10/06/ugrmRJ.jpg" style="width: 100%; height: 100%; object-fit: cover; pointer-events: none;" onerror="imgError(this,3)" src="https://s2.ax1x.com/2019/10/06/ugrmRJ.jpg">
-              </div>
-              <span class="label">
-              Previous Post</span>
-              <div class="info">
-                <h3>
-                My-world</h3>
-                <hr>
-              </div>
-            </a>
-          </div>
-        
-        
-          
-            <div class="post-nepre half next">
-          
-            <a href="/Skr-king.github.io/2019/10/06/termux/" rel="next">
-              <div class="background">
-                <img class="lazyload" src="https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progress-bar-stripe-loader.svg" data-src="https://s2.ax1x.com/2019/09/22/uSXeN8.jpg" style="width: 100%; height: 100%; object-fit: cover; pointer-events: none;" onerror="imgError(this,3)" src="https://s2.ax1x.com/2019/09/22/uSXeN8.jpg">
               </div>
               <span class="label">
               Next Post</span>
               <div class="info">
                 <h3>
-                安卓神器——termux</h3>
+                My-world</h3>
                 <hr>
               </div>
             </a>
