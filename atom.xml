@@ -6,7 +6,7 @@
   <link href="/Skr-king.github.io/atom.xml" rel="self"/>
   
   <link href="https://skr-king.github.io/"/>
-  <updated>2019-10-09T08:15:36.669Z</updated>
+  <updated>2019-10-10T23:15:38.301Z</updated>
   <id>https://skr-king.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>生活随笔</title>
+    <link href="https://skr-king.github.io/2019/10/11/life-essay/"/>
+    <id>https://skr-king.github.io/2019/10/11/life-essay/</id>
+    <published>2019-10-10T22:54:12.000Z</published>
+    <updated>2019-10-10T23:15:38.301Z</updated>
+    
+    <summary type="html">
+    
+      这是你自己的选择，别谢我。
+    
+    </summary>
+    
+      <category term="生活" scheme="https://skr-king.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="Life_essay" scheme="https://skr-king.github.io/tags/Life-essay/"/>
+    
+  </entry>
   
   <entry>
     <title>Linux 操作命令总结</title>
@@ -385,28 +405,6 @@
     
     
       <category term="learn" scheme="https://skr-king.github.io/tags/learn/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Keras-learn-note(2)</title>
-    <link href="https://skr-king.github.io/2019/08/20/Keras-note-2/"/>
-    <id>https://skr-king.github.io/2019/08/20/Keras-note-2/</id>
-    <published>2019-08-19T23:09:24.000Z</published>
-    <updated>2019-10-03T06:53:51.708Z</updated>
-    
-    <summary type="html">
-    
-      要么出众，要么出局，乾坤未定，你我都是黑马。
-    
-    </summary>
-    
-      <category term="AI" scheme="https://skr-king.github.io/categories/AI/"/>
-    
-    
-      <category term="note" scheme="https://skr-king.github.io/tags/note/"/>
-    
-      <category term="keras" scheme="https://skr-king.github.io/tags/keras/"/>
     
   </entry>
   
