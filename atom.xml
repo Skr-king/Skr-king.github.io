@@ -6,7 +6,7 @@
   <link href="/Skr-king.github.io/atom.xml" rel="self"/>
   
   <link href="https://skr-king.github.io/"/>
-  <updated>2019-10-14T11:04:26.551Z</updated>
+  <updated>2019-10-19T04:23:47.820Z</updated>
   <id>https://skr-king.github.io/</id>
   
   <author>
@@ -15,6 +15,104 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>非递归遍历树</title>
+    <link href="https://skr-king.github.io/2019/10/19/travel-tree-1/"/>
+    <id>https://skr-king.github.io/2019/10/19/travel-tree-1/</id>
+    <published>2019-10-19T02:20:50.000Z</published>
+    <updated>2019-10-19T04:23:47.820Z</updated>
+    
+    <summary type="html">
+    
+      先序非递归遍历二叉树，中序非递归遍历二叉树，后序非递归遍历二叉树及双栈法。
+    
+    </summary>
+    
+      <category term="算法" scheme="https://skr-king.github.io/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+      <category term="travel-tree" scheme="https://skr-king.github.io/tags/travel-tree/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>树——构造遍历二叉树</title>
+    <link href="https://skr-king.github.io/2019/10/18/travel-tree/"/>
+    <id>https://skr-king.github.io/2019/10/18/travel-tree/</id>
+    <published>2019-10-18T14:57:50.000Z</published>
+    <updated>2019-10-19T04:22:27.456Z</updated>
+    
+    <summary type="html">
+    
+      构造二叉树，遍历二叉树，先序+中序构造二叉树后序遍历，中序+后序构造二叉树先序遍历。
+    
+    </summary>
+    
+      <category term="算法" scheme="https://skr-king.github.io/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+      <category term="travel-tree" scheme="https://skr-king.github.io/tags/travel-tree/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>异构信息网</title>
+    <link href="https://skr-king.github.io/2019/10/17/HIN/"/>
+    <id>https://skr-king.github.io/2019/10/17/HIN/</id>
+    <published>2019-10-17T11:29:28.000Z</published>
+    <updated>2019-10-19T04:20:29.007Z</updated>
+    
+    <summary type="html">
+    
+      攒下所有梦见你的瞬间，够不够换见你一面。
+    
+    </summary>
+    
+      <category term="AI" scheme="https://skr-king.github.io/categories/AI/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Markov-Chain</title>
+    <link href="https://skr-king.github.io/2019/10/16/Markov-Chain/"/>
+    <id>https://skr-king.github.io/2019/10/16/Markov-Chain/</id>
+    <published>2019-10-16T09:28:03.000Z</published>
+    <updated>2019-10-19T04:21:23.527Z</updated>
+    
+    <summary type="html">
+    
+      世界让我遍体鳞伤，但伤口长出的却是翅膀。
+    
+    </summary>
+    
+      <category term="AI" scheme="https://skr-king.github.io/categories/AI/"/>
+    
+    
+      <category term="Markov Chain" scheme="https://skr-king.github.io/tags/Markov-Chain/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello Java</title>
+    <link href="https://skr-king.github.io/2019/10/14/java/"/>
+    <id>https://skr-king.github.io/2019/10/14/java/</id>
+    <published>2019-10-14T14:22:06.000Z</published>
+    <updated>2019-10-19T04:18:53.727Z</updated>
+    
+    <summary type="html">
+    
+      就想写个A+B，我容易吗。。。
+    
+    </summary>
+    
+      <category term="算法" scheme="https://skr-king.github.io/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+      <category term="java" scheme="https://skr-king.github.io/tags/java/"/>
+    
+  </entry>
   
   <entry>
     <title>PC开启上帝模式</title>
@@ -307,104 +405,6 @@
     
     
       <category term="DP" scheme="https://skr-king.github.io/tags/DP/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>暑假（补）-3</title>
-    <link href="https://skr-king.github.io/2019/09/14/Learn-3/"/>
-    <id>https://skr-king.github.io/2019/09/14/Learn-3/</id>
-    <published>2019-09-14T02:34:55.000Z</published>
-    <updated>2019-10-03T06:56:42.366Z</updated>
-    
-    <summary type="html">
-    
-      不疯不魔，难以成佛。
-    
-    </summary>
-    
-      <category term="算法" scheme="https://skr-king.github.io/categories/%E7%AE%97%E6%B3%95/"/>
-    
-    
-      <category term="STL" scheme="https://skr-king.github.io/tags/STL/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>暑假（补）-2</title>
-    <link href="https://skr-king.github.io/2019/09/11/learn-2/"/>
-    <id>https://skr-king.github.io/2019/09/11/learn-2/</id>
-    <published>2019-09-11T05:56:29.000Z</published>
-    <updated>2019-10-03T06:55:49.007Z</updated>
-    
-    <summary type="html">
-    
-      围在城里的人想逃出来，城外的人想冲进去。--《围城》
-    
-    </summary>
-    
-      <category term="算法" scheme="https://skr-king.github.io/categories/%E7%AE%97%E6%B3%95/"/>
-    
-    
-      <category term="STL" scheme="https://skr-king.github.io/tags/STL/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>暑假（补）-1</title>
-    <link href="https://skr-king.github.io/2019/09/09/learn-1/"/>
-    <id>https://skr-king.github.io/2019/09/09/learn-1/</id>
-    <published>2019-09-09T02:23:56.000Z</published>
-    <updated>2019-10-03T06:55:29.481Z</updated>
-    
-    <summary type="html">
-    
-      乱花渐欲迷人眼，浅草才能建马蹄。最爱湖东行不足，绿杨阴里白沙堤。自己领会去吧！！！
-    
-    </summary>
-    
-      <category term="算法" scheme="https://skr-king.github.io/categories/%E7%AE%97%E6%B3%95/"/>
-    
-    
-      <category term="sort（）" scheme="https://skr-king.github.io/tags/sort%EF%BC%88%EF%BC%89/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>matplotlib 常用图绘制</title>
-    <link href="https://skr-king.github.io/2019/09/06/matplotlib/"/>
-    <id>https://skr-king.github.io/2019/09/06/matplotlib/</id>
-    <published>2019-09-06T13:53:59.000Z</published>
-    <updated>2019-10-03T06:58:39.609Z</updated>
-    
-    <summary type="html">
-    
-      我的冷漠里藏着一半的害羞，一半的自卑。
-    
-    </summary>
-    
-      <category term="AI" scheme="https://skr-king.github.io/categories/AI/"/>
-    
-    
-      <category term="matplotlib" scheme="https://skr-king.github.io/tags/matplotlib/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>生活随笔</title>
-    <link href="https://skr-king.github.io/2019/08/29/Essay/"/>
-    <id>https://skr-king.github.io/2019/08/29/Essay/</id>
-    <published>2019-08-29T13:54:17.000Z</published>
-    <updated>2019-10-03T06:49:31.878Z</updated>
-    
-    <summary type="html">
-    
-      不妨先做出点成绩，然后再去强调你的感受，否则，生命中只有唧唧歪歪，怎么看都是矫情。
-    
-    </summary>
-    
-      <category term="生活" scheme="https://skr-king.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
-    
     
   </entry>
   
